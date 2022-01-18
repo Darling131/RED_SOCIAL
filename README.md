@@ -27,7 +27,11 @@ _Inicialemente este es el prototipo de inicio de seion y registro de usuario🍒
 
 Usaremos dstintos temas ya aprendido y nuevas plantillas.
  -HTML
+ 
  -CSS
+ 
  -Javascript
+ 
  -CDN
+ 
  -FireBase
