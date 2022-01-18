@@ -1,7 +1,9 @@
 # Proyecto 4 (RED SOCIAL)
 
 Es una red social dirigida a jovenes con el proposito de copartir experiencias y su vida, ademas poder compartir opinion en distintos temas del mundo.
-Nuestra red social va dirigida a tomar conciencia en cuanto a temas sociales, culturales, economicos y medioambientales de forma respetusoa y colaborativa
+Nuestra red social va dirigida a tomar conciencia en cuanto a temas sociales, culturales, economicos y medioambientales de forma respetusoe podriaa y colaborativa.
+Como una comunidad amigable donde se podria compartir una opinion y poder escuchar al opinion de otros.
+
 
 _Inicialemente este es el prototipo de inicio de seion y registro de usuario🍒_
 
@@ -23,3 +25,9 @@ _Inicialemente este es el prototipo de inicio de seion y registro de usuario🍒
  ![image](https://user-images.githubusercontent.com/94127469/149955025-ab2f6770-3f1b-47b8-b685-bb264edeb72d.png)
 
 
+Usaremos dstintos temas ya aprendido y nuevas plantillas.
+ -HTML
+ -CSS
+ -Javascript
+ -CDN
+ -FireBase
