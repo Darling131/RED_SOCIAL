@@ -4,6 +4,17 @@ Es una red social dirigida a jovenes con el proposito de copartir experiencias y
 Nuestra red social va dirigida a tomar conciencia en cuanto a temas sociales, culturales, economicos y medioambientales de forma respetusoe podriaa y colaborativa.
 Como una comunidad amigable donde se podria compartir una opinion y poder escuchar al opinion de otros.
 
+Además tiene la posibilidad de configurar la privacidad de la publicacion que vaya a realizar a Público o Solo yo.
+
+Añadir comentaraios, editarlos o eliminarlos. 
+
+Dar o remover likes a las publicaciones.
+
+Modificar sus datos en el perfil o usuario.
+
+Seguir o agregare amigos.
+
+
 
 _Inicialemente este es el prototipo de inicio de seion y registro de usuario🍒_
 
