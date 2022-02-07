@@ -1,4 +1,4 @@
-# Proyecto 4 (RED SOCIAL)
+# Proyecto 4 (RED SOCIAL) Social Network
 
 Es una red social dirigida a jovenes con el proposito de copartir experiencias y su vida, ademas poder compartir opinion en distintos temas del mundo.
 Nuestra red social va dirigida a tomar conciencia en cuanto a temas sociales, culturales, economicos y medioambientales de forma respetusoe podriaa y colaborativa.
